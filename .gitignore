@@ -11,10 +11,8 @@
 .byebug_history
 spec/dummy/log/*
 .sass-cache
-/_site/gemfiles
-/_site/pkg
+_site/*
 .sass-cache
 *.gem/bin/
 /exe/
 /bin/
-_site/bin
